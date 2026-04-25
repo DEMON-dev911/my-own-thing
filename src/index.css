@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Indie+Flower&family=Michroma&family=Sekuya&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --font-happy: "Dancing Script", cursive;
+  --font-birthday: "Indie Flower", cursive;
+  --font-didi: "Sekuya", cursive;
+  --font-para: "Permanent Marker", cursive;
+}
